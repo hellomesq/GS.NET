@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbrigoGerenciamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bfee34b431b0eecee4bb6cb68fb4aa49de06e6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c01f341f5b92bfd408c2144bc0658aa19475f02")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbrigoGerenciamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbrigoGerenciamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
